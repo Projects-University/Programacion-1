@@ -25,14 +25,14 @@ def imprimir(resultado):
     print(f"El resultado es {resultado}")
 
 def suma(num1,num2):
-    suma = 0
-    suma = num1+num2
-    return suma
+    resultado = 0
+    resultado = num1+num2
+    return resultado
 def multiplicacion(num1,num2):
-    multiplicacion = 0
+    resultado = 0
     for i in range(num2):
-        multiplicacion = multiplicacion+num1
-    return multiplicacion
+        resultado = resultado+num1
+    return resultado
 
 def main():
     leerNumeros()
