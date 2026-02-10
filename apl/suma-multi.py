@@ -1,6 +1,5 @@
 """
 1. El usuario quiere leer 2 números enteros positivos de hasta 8 cifras, realizar la suma e imprimir su resultado
-
 2. El usuario quiere leer 2 números enteros positivos de hasta 8 cifras, realizar la multiplicación, utilizar sumas sucesivas y presentar su resultado
 """
 def leerNumeros():
