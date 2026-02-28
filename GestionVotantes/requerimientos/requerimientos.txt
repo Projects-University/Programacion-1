@@ -1,0 +1,6 @@
+Se requiere una aplicaciòn que sea capaz de:
+1. Registrar un votante con los datos:
+    Nombre, apellido, nùmero de identificaciòn y fecha de nacimiento
+2. Se debe imprimit su nùmero de cèdula, su nombre, apellido y un texto:
+    Puede votar o no puede votar y la edad a hoy. Se considera apto para votar
+    si su edad a hoy es 18 años cumplidos
