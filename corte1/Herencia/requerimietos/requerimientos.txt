@@ -1,1 +1,2 @@
-Hacer una Clase padre la cual
+Hacer una Clase padre la cual tenga 3 atributos.
+Luego Hacer 2 clases hijas que hereden de la clase padre y que tengan 2 atributos cada una.
