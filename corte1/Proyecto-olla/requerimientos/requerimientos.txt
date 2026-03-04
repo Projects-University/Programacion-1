@@ -1,0 +1,1 @@
+En una hoja de examen, escribir el código en java del objeto con 2 artributos encapsulados en español, con uso de constructores sobrecargados. 
